@@ -3,8 +3,8 @@
 > Upload, download, and manage files in Nexus Raw Repositories with a simple, fast CLI.
 
 [![Go](https://img.shields.io/badge/built%20with-Go-blue?logo=go)](https://golang.org)
-[![License](https://img.shields.io/github/license/yourname/nxu)](LICENSE)
-[![Releases](https://img.shields.io/github/v/release/yourname/nxu)](https://github.com/yourname/nxu/releases)
+[![License](https://img.shields.io/github/license/aquicksoft-dev/nxu)](LICENSE)
+[![Releases](https://img.shields.io/github/v/release/aquicksoft-dev/nxu)](https://github.com/aquicksoft-dev/nxu/releases)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
 
 ---
